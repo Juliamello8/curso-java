@@ -8,6 +8,8 @@ public class Aula02 {
 		c1.cor = "Azul";
 		c1.ponta = 0.5f;
 		c1.tampada = false;
+		c1.modelo = "BIC";
+		c1.status();
 	}
 
 }
